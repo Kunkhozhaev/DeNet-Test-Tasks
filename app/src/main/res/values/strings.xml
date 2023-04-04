@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">deNetTest</string>
+    <string name="add_a_child_to_the_current_node">Adds child to the node</string>
+    <string name="child_name_text">child name</string>
+    <string name="node_name_text">Node name</string>
+    <string name="delete_child_node">Delete child node</string>
 </resources>
